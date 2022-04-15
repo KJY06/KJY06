@@ -1,13 +1,12 @@
 ### "Games are endless ideas"🎮
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJY06)](https://github.com/KJY06/github-readme-stats)
+
 Learning Languages: C / C#
 
 Learning Programs: Unity / Github
 
 Hello Github!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJY06)](https://github.com/KJY06/github-readme-stats)
-
 <!--
 **KJY06/KJY06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
