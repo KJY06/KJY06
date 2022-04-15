@@ -1,8 +1,10 @@
-### I'm KJY 🔮
+### Hello Github! 🎉
 
 Learning Languages: C / C#
 
 Learning Programs: Unity / Github
+
+##"Games are endless ideas"🎮
 
 <!--
 **KJY06/KJY06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
