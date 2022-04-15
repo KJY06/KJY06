@@ -1,10 +1,10 @@
-### Hello Github! 🎉
+### "Games are endless ideas"🎮
 
 Learning Languages: C / C#
 
 Learning Programs: Unity / Github
 
-##"Games are endless ideas"🎮
+Hello Github!
 
 <!--
 **KJY06/KJY06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
