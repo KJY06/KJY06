@@ -1,6 +1,6 @@
 ### I'm KJY 🔮
 
-Learning Languages: C / C#
+Learning Languages: C / C#\n
 Learning Programs: Unity / Github
 
 <!--
