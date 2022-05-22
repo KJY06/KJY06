@@ -7,7 +7,7 @@
 
 Learning Languages: C / C#
 
-Learning Programs: Unity / Github
+Learning Programs: Unity
 
 Hello Github!
 <!--
