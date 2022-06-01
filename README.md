@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KJY06&layout=compact)](https://github.com/KJY06/github-readme-stats)
 
 
-Learning Languages: C / C#
+Learning Languages: C#
 
 Learning Programs: Unity
 <!--
